@@ -1,0 +1,8 @@
+{
+  "default_hook": "https://discordapp.com/api/webhooks/xxxxxxx/slack",
+  "alternative_hooks": {
+    "#announcements": {
+      "hook": "https://discordapp.com/api/webhooks/xxxxxxx/slack"
+    }
+  }
+}
